@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampreeth</h1>
-<h3 align="center">An aspiring developer from India</h3>
+<h3 align="center">An aspiring Full-stack Developer from India</h3>
 
 - 🌱 I’m currently learning **Python, Full-stack Development**
 
