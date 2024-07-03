@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-sampreeth&label=Profile%20views&color=0e75b6&style=flat" alt="sam-sampreeth" /> </p>
 
 
-- 🌱 I’m currently learning **Node.js, Django in Python**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 🤝 I’m currently working on [CloudCat - Library Management System](https://github.com/sam-sampreeth/CloudCat)
-
+- 🤝 I’m currently working on **Projects on MERN Stack**
 - 📫 How to reach me **sampreeth.personal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
