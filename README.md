@@ -4,12 +4,7 @@
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=sam-sampreeth&label=Profile%20views&color=0e75b6&style=flat" alt="sam-sampreeth" />  
 </p>  
-
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img src="https://github-profile-trophy.vercel.app/?username=sam-sampreeth" alt="sam-sampreeth" />  
-  </a>  
-</p>  
+ 
 
 - 🔭 I’m currently working on **Rebuilding my projects from the ground up with smoother UI, faster load times, and smarter code.**  
 - 🌱 I’m currently learning **Framer Motion for animations and strengthening my DSA fundamentals**  
