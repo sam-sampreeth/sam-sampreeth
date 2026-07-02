@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9d/51/76/9d517609989d9ca3f81c66ad8bc602ff.jpg" width="100%" alt="banner">
+  <img src="https://portfolio.sampreeth.in/banner.jpg" width="100%" alt="banner">
 </p>
 
 frontend // web-design // backend
